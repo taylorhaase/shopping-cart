@@ -1,6 +1,3 @@
-/*var price = $(".button").click(parseFloat($(this).siblings("p").text().substring(1)));
-var name = $(".button").click(this).siblings("h2").text();*/
-
 var items = [];
 targetArea = $("#cart");
 const subtotalContainer = $("#subtotal");
